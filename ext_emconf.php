@@ -1,6 +1,6 @@
 <?php
 
-$EM_CONF['cacheflow'] = [
+$EM_CONF[$_EXTKEY] = [
     'title' => 'Cacheflow',
     'description' => 'Continuous background refreshing of cached pages.',
     'category' => 'be',
