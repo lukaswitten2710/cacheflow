@@ -1,3 +1,5 @@
 <?php
 
-defined('TYPO3') or die();
+declare(strict_types=1);
+
+defined('TYPO3') || die();

@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 $EM_CONF['cacheflow'] = [
     'title' => 'Cacheflow',
     'description' => 'Continuous background refreshing of cached pages.',
